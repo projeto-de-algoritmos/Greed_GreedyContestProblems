@@ -1,4 +1,4 @@
-# Greedy Problems
+# Greedy Contest Problems
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Greed<br>
