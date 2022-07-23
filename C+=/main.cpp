@@ -1,5 +1,10 @@
 // Resolução do problema "C+="
 // no site: https://codeforces.com/problemset/problem/1368/A
+
+/* 
+A resolução parte do pressuposto que é sempre melhor somar o maior elemento 
+ao segundo maior elemento e ir seguindo até algum deles ser maior do que n.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 int main()
@@ -13,8 +18,6 @@ int main()
         priority_queue<int> fila;
         fila.push(a);
         fila.push(b);
-        // A resolução parte do pressuposto que é sempre melhor somar o maior elemento 
-        // ao segundo maior elemento e ir seguindo até algum deles ser maior do que n.
         while (fila.top() <= n)
         {
             a = fila.top();
