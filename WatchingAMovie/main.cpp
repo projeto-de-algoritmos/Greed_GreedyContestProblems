@@ -1,5 +1,5 @@
 // Resolução do problema "Watching a Movie"
-// no site: https://codeforces.com/problemset/problem/499/AA
+// no site: https://codeforces.com/problemset/problem/499/A
 /*
 A resolução desse problema baseia-se em somar a diferença do minuto final de cada cena boa com o minuto do começo de cada cena
 
