@@ -49,7 +49,7 @@ ou simplesmente compile e rode com um só comando
 ```
 ### C+= - [link](https://codeforces.com/problemset/problem/1368/A)
 
-![C+=](./Screenshots/C+=/questao.png)
+![C+=](Screenshots/C+=/questao.png)
 
 **Dificuldade:** 800
 
@@ -57,11 +57,11 @@ ou simplesmente compile e rode com um só comando
 
 **Questão accepted**
 
-![C+=](./Screenshots/C+=/ac.png)
+![C+=](Screenshots/C+=/ac.png)
 
 ### Dinner with Emma - [link](https://codeforces.com/problemset/problem/616/B)
 
-![Dinner with Emma](./Screenshots/Dinner%20with%20Emma/questao.png)
+![Dinner with Emma](Screenshots/Dinner%20with%20Emma/questao.png)
 
 **Dificuldade:** 1000
 
@@ -69,11 +69,11 @@ ou simplesmente compile e rode com um só comando
 
 **Questão accepted**
 
-![Dinner with Emma](./Screenshots/Dinner%20with%20Emma/ac.png)
+![Dinner with Emma](Screenshots/Dinner%20with%20Emma/ac.png)
 
 ### Greed - [link](https://codeforces.com/problemset/problem/892/A)
 
-![Greed](./Screenshots/Greed/questao.png)
+![Greed](Screenshots/Greed/questao.png)
 
 **Dificuldade:** 900
 
@@ -81,11 +81,11 @@ ou simplesmente compile e rode com um só comando
 
 **Questão accepted**
 
-![Greed](./Screenshots/Greed/ac.png)
+![Greed](Screenshots/Greed/ac.png)
 
 ### Tanya and Toys - [link](https://codeforces.com/problemset/problem/659/C)
 
-![Tanya and Toys](./Screenshots/Tanya%20and%20Toys/questao.png)
+![Tanya and Toys](Screenshots/Tanya%20and%20Toys/questao.png)
 
 **Dificuldade:** 1200
 
@@ -93,11 +93,11 @@ ou simplesmente compile e rode com um só comando
 
 **Questão accepted**
 
-![Tanya and Toys](./Screenshots/Tanya%20and%20Toys/ac.png)
+![Tanya and Toys](Screenshots/Tanya%20and%20Toys/ac.png)
 
 ### Team - [link](https://codeforces.com/problemset/problem/401/C)
 
-![Team](./Screenshots/Team/questao.png)
+![Team](Screenshots/Team/questao.png)
 
 **Dificuldade:** 1400
 
@@ -105,11 +105,11 @@ ou simplesmente compile e rode com um só comando
 
 **Questão accepted**
 
-![Team](./Screenshots/Team/ac.png)
+![Team](Screenshots/Team/ac.png)
 
 ### Vasya And Public Transport - [link](https://codeforces.com/problemset/problem/355/B)
 
-![Vasya And Public Transport](./Screenshots/Vasya%20and%20Public%20Transport/questao.png)
+![Vasya And Public Transport](Screenshots/Vasya%20and%20Public%20Transport/questao.png)
 
 **Dificuldade:** 1100
 
@@ -117,11 +117,11 @@ ou simplesmente compile e rode com um só comando
 
 **Questão accepted**
 
-![Vasya And Public Transport](./Screenshots/Vasya%20and%20Public%20Transport/ac.png)
+![Vasya And Public Transport](Screenshots/Vasya%20and%20Public%20Transport/ac.png)
 
 ### Watching A Movie - [link](https://codeforces.com/problemset/problem/499/A)
 
-![Watching A Movie](./Screenshots/Watching%20a%20Movie/questao.png)
+![Watching A Movie](Screenshots/Watching%20a%20Movie/questao.png)
 
 **Dificuldade:** 1000
 
@@ -129,11 +129,11 @@ ou simplesmente compile e rode com um só comando
 
 **Questão accepted**
 
-![Watching A Movie](./Screenshots/Watching%20a%20Movie/ac.png)
+![Watching A Movie](Screenshots/Watching%20a%20Movie/ac.png)
 
 ### Assingning To Classes - [link](https://codeforces.com/problemset/problem/1300/B)
 
-![Assingning To Classes](./Screenshots/AssigningToClasses/questao.png)
+![Assingning To Classes](Screenshots/AssigningToClasses/questao.png)
 
 **Dificuldade:** 1000
 
@@ -141,7 +141,7 @@ ou simplesmente compile e rode com um só comando
 
 **Questão accepted**
 
-![Assingning To Classes](./Screenshots/AssigningToClasses/ac.png)
+![Assingning To Classes](Screenshots/AssigningToClasses/ac.png)
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
