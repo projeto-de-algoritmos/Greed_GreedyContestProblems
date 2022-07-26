@@ -176,8 +176,7 @@ E por fim:
 
 **Resolução:**
 A resolução desse problema é bem simples, constrói-se um set (uma estrutura dados que não há repetição de elementos) para guardar
-os brinquedos da Tanya, a partir disso, faça um loop que vai até m, e guarde num vetor qualquer elemento que não esteja no set
-e decremento no valor do elemento.
+os brinquedos da Tanya, a partir disso, faça um loop que vai de 1 até m (que é o valor que a mãe de Tanya deixa ela gastar), e guarde num vetor qualquer elemento que não esteja no set e decremente no valor do elemento.
 Ao sair do loop, imprima a quantidade de elementos no vetor e cada elemento que nele há.
 
 **Questão accepted**
