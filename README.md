@@ -11,7 +11,8 @@
 | 18/0037242	| Rodrigo Tiago Costa Lima   |
 
 ## Sobre 
-O objetivo deste projeto é resolver alguns problemas de programação utilizando algoritmos ambiciosos (Greed).
+
+O objetivo deste projeto é resolver alguns problemas de programação utilizando algoritmos ambiciosos (Greed). Nós resolvemos 8 problemas distintos e de dificuldades diversas.
 
 ## Instalação 
 **Linguagem**: C++<br>
