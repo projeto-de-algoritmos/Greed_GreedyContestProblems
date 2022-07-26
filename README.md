@@ -125,7 +125,7 @@ Esse problema pede que sejam separados um conjunto de alunos em duas salas, tal 
 
 O problema pede que o tamanho do conjunto de alunos por sala seja ímpar, mas o truque é, caso seja dividido de forma par, tirar a mediana desse conjunto fazendo a média dos dois elementos do meio.
 
-Então adicionamos todos os alunos em uma fila de prioridade, e após isso começamos a retirar o aluno com maior prioridade (que nesse caso é o aluno com menor nível), e inserimos alternadamente em cada sala de aula, e ao final fazemos a diferença da mediana entre as duas salas.
+Então adicionamos todos os alunos em uma fila de prioridade, e após isso começamos a retirar o aluno com maior prioridade (que nesse caso é o aluno com maior nível), e inserimos alternadamente em cada sala de aula, e ao final fazemos a diferença da mediana entre as duas salas.
 
 **Questão accepted**
 
